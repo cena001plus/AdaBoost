@@ -1,2 +1,3 @@
 # AdaBoost
-AdaBoost/C
+C
+a simple example about adaboost
